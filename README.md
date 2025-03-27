@@ -6,8 +6,8 @@ L’objectif de ce projet est de réaliser un tableau de bord tenant compte des 
 2. D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
 - Données : Coursera
 - Outil : Power BI
-
 ![image](https://github.com/user-attachments/assets/30a6c63f-ab31-4147-9bc6-5e5b93423587)
+
 
 # [Project 2 : Etude sur l'eau potable](https://github.com/Hines98/Drinking_water_PBI_project/blob/main/README_french_version.md)
 Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water For All). Cette ONG a pour ambition de donner accès à l’eau potable à tout le monde et a 3 domaines d’expertises :
@@ -18,7 +18,6 @@ Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water Fo
 > Dans ce cadre, je dois réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
 - Données : Open classrooms
 - Outil : Power BI
-
 ![image](https://github.com/user-attachments/assets/f8e44282-96da-48c8-98a8-4170881fa087)
 
 
@@ -26,7 +25,6 @@ Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water Fo
 En tant que développeur Power BI chez Maximoff Traders, une entreprise leader en logiciels, ma mission est de faciliter l’accès aux informations clés de l’entreprise grâce à un tableau de bord interactif. L’objectif est de centraliser et de rendre accessibles les indicateurs de ventes critiques pour les utilisateurs métiers qui leur permettra de suivre les performances commerciales en un coup d’œil.
 - Données : Coursera
 - Outil : Power BI
-
 ![image](https://github.com/user-attachments/assets/d8df9600-a8d8-418f-b3a2-24a937f8eec2)
 
 
