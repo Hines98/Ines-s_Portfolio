@@ -14,8 +14,10 @@ Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water Fo
 1. Création de services d’accès à l’eau potable
 2. Modernisation de services d’accès à l’eau déjà existants
 3. Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
-> L’association a effectué une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
-> Dans ce cadre, je dois réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
+
+L’association a effectué une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
+
+Dans ce cadre, je dois réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
 - Données : Open classrooms
 - Outil : Power BI
 ![image](https://github.com/user-attachments/assets/a2fc2bb8-a79c-42b1-a13e-005a176b11cd)
