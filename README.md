@@ -1,4 +1,9 @@
 # My Portfolio
+Bienvenue sur mon portfolio de projets.
+
+Chaque projet présenté ici contient un lien vers son dépôt GitHub, où vous trouverez une description détaillée du contexte, des objectifs, des résultats issus des analyses et des recommandations. Vous aurez également accès aux fichiers de données utilisés ainsi qu'aux dashboards réalisés aux formats PBIX et PDF, les scripts Python et SQL. 
+
+Cliquez sur le nom d’un projet pour en savoir plus.
 
 # [Projet 1 : Analyse de données RH](https://github.com/Hines98/HR-Analysis_PBI_project/blob/main/README_french_version.md)
 L’objectif de ce projet est de réaliser un tableau de bord tenant compte des défis auxquels les professionnels des RH sont confrontés et de fournir un moyen efficace de répondre à leurs questions quotidiennes. Le tableau de bord offrira des insights en temps réel sur les employés actifs, les nouvelles recrues, les départs et d’autres métriques clés pour soutenir une prise de décision stratégique. Cet outil doit permettre aux RH :
