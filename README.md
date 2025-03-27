@@ -31,7 +31,7 @@ En tant que développeur Power BI chez Maximoff Traders, une entreprise leader e
 
 
 # [Project 4 : Analyse des ventes : Modèles de véhicules ](https://github.com/Hines98/Cars_model_SQL_workbench/blob/main/README_french_version.md)
-La société Mint Classics, un détaillant de modèles réduits de voitures classiques, envisage de fermer l'un de ses entrepôts et cherche des solutions pour optimiser ses stocks tout en maintenant un service rapide. En utilisant MySQL Workbench, mon rôle est d’analyser les données actuelles afin d’évaluer la faisabilité d’une réorganisation et d’identifier les articles à conserver ou à supprimer. L'objectif est de comprendre la relation entre les niveaux de stock et les ventes, et de formuler des recommandations basées sur les données pour une gestion plus efficace des entrepôts.
+La société Mint Classics, un détaillant de modèles de véhicules envisage de fermer l'un de ses entrepôts et cherche des solutions pour optimiser ses stocks tout en maintenant un service rapide. En utilisant MySQL Workbench, mon rôle est d’analyser les données actuelles afin d’évaluer la faisabilité d’une réorganisation et d’identifier les articles à conserver ou à supprimer. L'objectif est de comprendre la relation entre les niveaux de stock et les ventes, et de formuler des recommandations basées sur les données pour une gestion plus efficace des entrepôts.
 - Données : Coursera
 - Outil : MySQL Workbench
 
