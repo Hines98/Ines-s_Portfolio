@@ -18,7 +18,7 @@ Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water Fo
 > Dans ce cadre, je dois réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
 - Données : Open classrooms
 - Outil : Power BI
-![image](https://github.com/user-attachments/assets/f8e44282-96da-48c8-98a8-4170881fa087)
+![image](https://github.com/user-attachments/assets/a2fc2bb8-a79c-42b1-a13e-005a176b11cd)
 
 
 # [Project 3 : Analyse des ventes](https://github.com/Hines98/Sales_report_PBI_project/blob/main/README_french_version.md)
@@ -32,7 +32,6 @@ En tant que développeur Power BI chez Maximoff Traders, une entreprise leader e
 La société Mint Classics, un détaillant de modèles de véhicules envisage de fermer l'un de ses entrepôts et cherche des solutions pour optimiser ses stocks tout en maintenant un service rapide. En utilisant MySQL Workbench, mon rôle est d’analyser les données actuelles afin d’évaluer la faisabilité d’une réorganisation et d’identifier les articles à conserver ou à supprimer. L'objectif est de comprendre la relation entre les niveaux de stock et les ventes, et de formuler des recommandations basées sur les données pour une gestion plus efficace des entrepôts.
 - Données : Coursera
 - Outil : MySQL Workbench
-
   ![image](https://github.com/user-attachments/assets/9e3af63a-e6a0-46e6-92de-10c0b7c33470)
 
 
