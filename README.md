@@ -32,7 +32,8 @@ En tant que développeur Power BI chez Maximoff Traders, une entreprise leader e
 La société Mint Classics, un détaillant de modèles de véhicules envisage de fermer l'un de ses entrepôts et cherche des solutions pour optimiser ses stocks tout en maintenant un service rapide. En utilisant MySQL Workbench, mon rôle est d’analyser les données actuelles afin d’évaluer la faisabilité d’une réorganisation et d’identifier les articles à conserver ou à supprimer. L'objectif est de comprendre la relation entre les niveaux de stock et les ventes, et de formuler des recommandations basées sur les données pour une gestion plus efficace des entrepôts.
 - Données : Coursera
 - Outil : MySQL Workbench
-  ![image](https://github.com/user-attachments/assets/9e3af63a-e6a0-46e6-92de-10c0b7c33470)
+
+![image](https://github.com/user-attachments/assets/9e3af63a-e6a0-46e6-92de-10c0b7c33470)
 
 
 
