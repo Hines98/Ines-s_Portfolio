@@ -1,5 +1,4 @@
-# My Portfolio
-Bienvenue sur mon portfolio de projets.
+Bienvenue sur mon portfolio.
 
 Chaque projet présenté ici contient un lien vers son dépôt GitHub, où vous trouverez une description détaillée du contexte, des objectifs, des résultats issus des analyses et des recommandations. Vous aurez également accès aux fichiers de données utilisés ainsi qu'aux dashboards réalisés aux formats PBIX et PDF, les scripts Python et SQL. 
 
