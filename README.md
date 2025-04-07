@@ -11,6 +11,7 @@ L’objectif de ce projet est de réaliser un tableau de bord tenant compte des 
 2. D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
 
 [Voir la suite...](https://hines98.github.io/HR-Analysis_PBI_project/)
+
 ![image](https://github.com/user-attachments/assets/30a6c63f-ab31-4147-9bc6-5e5b93423587)
 
 
