@@ -5,12 +5,12 @@ Chaque projet présenté ici contient un lien vers son dépôt GitHub, où vous 
 
 Cliquez sur le nom d’un projet pour en savoir plus.
 
-# [Projet 1 : Analyse de données RH](https://hines98.github.io/HR-Analysis_PBI_project/)
+# [Projet 1 : Analyse de données RH](https://hines98.github.io/Analyse_donnees_RH_PBI/)
 L’objectif de ce projet est de réaliser un tableau de bord tenant compte des défis auxquels les professionnels des RH sont confrontés et de fournir un moyen efficace de répondre à leurs questions quotidiennes. Le tableau de bord offrira des insights en temps réel sur les employés actifs, les nouvelles recrues, les départs et d’autres métriques clés pour soutenir une prise de décision stratégique. Cet outil doit permettre aux RH :
 1. D’avoir un suivi des tendances des employés : embauche, départs et actifs
 2. D’avoir une analyse des données démographiques et de performances : répartition des employés par genre, âge et ancienneté
 
-[Voir la suite...](https://hines98.github.io/HR-Analysis_PBI_project/)
+[Voir la suite...](https://hines98.github.io/Analyse_donnees_RH_PBI/)
 
 
 # [Projet 2 : Etude sur l'eau potable](https://github.com/Hines98/Drinking_water_PBI_project/blob/main/README_french_version.md)
