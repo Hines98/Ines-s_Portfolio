@@ -13,7 +13,7 @@ L’objectif de ce projet est de réaliser un tableau de bord tenant compte des 
 [Voir la suite...](https://hines98.github.io/Analyse_donnees_RH_PBI/)
 
 
-# [Projet 2 : Etude sur l'eau potable](https://github.com/Hines98/Drinking_water_PBI_project/blob/main/README_french_version.md)
+# [Projet 2 : Etude sur l'eau potable](https://hines98.github.io/Etude_sur_eau_potable_PBI/)
 Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water For All). Cette ONG a pour ambition de donner accès à l’eau potable à tout le monde et a 3 domaines d’expertises :
 1. Création de services d’accès à l’eau potable
 2. Modernisation de services d’accès à l’eau déjà existants
@@ -22,9 +22,9 @@ Je suis consultante Data Analyst en mission dans l’ONG DWFA (Drinking Water Fo
 L’association a effectué une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
 Dans ce cadre, je dois réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler dès que le bailleur de fonds aura donné sa réponse sur le domaine d’expertise qu’il souhaite financer.
-- Données : Open classrooms
-- Outil : Power BI
-![image](https://github.com/user-attachments/assets/a2fc2bb8-a79c-42b1-a13e-005a176b11cd)
+
+[Voir la suite...](https://hines98.github.io/Etude_sur_eau_potable_PBI/)
+
 
 
 # [Projet 3 : Analyse des ventes](https://github.com/Hines98/Sales_report_PBI_project/blob/main/README_french_version.md)
