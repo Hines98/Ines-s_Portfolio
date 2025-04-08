@@ -39,14 +39,14 @@ L’objectif est de centraliser et de rendre accessibles les indicateurs de vent
 [Voir la suite...](https://hines98.github.io/Rapport_ventes_PBI/)
 
 
-# [Projet 4 : Analyse des ventes : Modèles de véhicules ](https://github.com/Hines98/Cars_model_SQL_workbench/blob/main/README_french_version.md)
+# [Projet 4 : Analyse des ventes : Modèles de véhicules ](https://hines98.github.io/Analyse_stocks_vehicules_SQL/)
 La société Mint Classics, un détaillant de modèles de véhicules envisage de fermer l'un de ses entrepôts et cherche des solutions pour optimiser ses stocks tout en maintenant un service rapide. En utilisant MySQL Workbench, mon rôle est d’analyser les données actuelles afin d’évaluer la faisabilité d’une réorganisation et d’identifier les articles à conserver ou à supprimer. 
 
 L'objectif est de comprendre la relation entre les niveaux de stock et les ventes, et de formuler des recommandations basées sur les données pour une gestion plus efficace des entrepôts.
 - Données : Coursera
 - Outil : MySQL Workbench
 
-[Voir la suite...]()
+[Voir la suite...](https://hines98.github.io/Analyse_stocks_vehicules_SQL/)
 
 
 
