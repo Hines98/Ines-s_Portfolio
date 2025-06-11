@@ -50,13 +50,7 @@ L'objectif est de comprendre la relation entre les niveaux de stock et les vente
 
 
 # [Projet 5 : Suivi des polluants de l'air ](https://hines98.github.io/Suivi_des_polluants_air_PBI/)
-La qualité de l’air est un enjeu de santé publique majeur, affectant directement les populations, en particulier en milieu urbain. Ce tableau de bord Power BI vise à analyser les niveaux de pollution atmosphérique dans différents pays du monde, à partir de données environnementales.
-
-Ce rapport permet d'avoir :
-- Une visualisation claire et interactive de la pollution de l'air
-- Une évaluation de la conformité aux seuils OMS
-- Une base solide pour des actions ciblées en matière de prévention sanitaire et de politique environnementale.
-
+La qualité de l’air est un enjeu de santé publique majeur, affectant directement les populations, en particulier en milieu urbain. Ce tableau de bord Power BI vise à avoir une visualisation claire et interactive de la pollution de l'air, une évaluation de la conformité aux seuils OMS et une base solide pour des actions ciblées en matière de prévention sanitaire et de politique environnementale.
 
 - Données : World air quality
 - Outil : Power BI desktop
