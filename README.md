@@ -56,7 +56,8 @@ Ce rapport permet d'avoir :
 - Une visualisation claire et interactive de la pollution de l'air
 - Une évaluation de la conformité aux seuils OMS
 - Une base solide pour des actions ciblées en matière de prévention sanitaire et de politique environnementale.
-  
+
+
 - Données : World air quality
 - Outil : Power BI desktop
 
