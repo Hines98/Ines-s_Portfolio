@@ -10,7 +10,7 @@ L’objectif de ce projet est de réaliser un tableau de bord tenant compte des 
 - Données : Coursera
 - Outil : Power BI
   
-[Voir la suite...](https://hines98.github.io/Analyse_donnees_RH_PBI/)
+[Voir la suite...](https://github.com/Hines98/Analyse_donnees_RH_PBI)
 
 
 # [Projet 2 : Etude sur l'eau potable](https://hines98.github.io/Etude_sur_eau_potable_PBI/)
