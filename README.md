@@ -1,4 +1,4 @@
-Bienvenue sur mon portfolio.
+[//]: # ( Bienvenue sur mon portfolio.
 
 Chaque projet présenté ici contient un lien vers son dépôt GitHub, où vous trouverez une description détaillée du contexte, des objectifs, des résultats issus des analyses et des recommandations. Vous aurez également accès aux fichiers de données utilisés ainsi qu'aux dashboards réalisés aux formats PBIX et PDF, les scripts Python et SQL. 
 
@@ -55,7 +55,7 @@ La qualité de l’air est un enjeu de santé publique majeur, affectant directe
 - Données : World air quality
 - Outil : Power BI desktop
 
-[Voir la suite...](https://hines98.github.io/Suivi_des_polluants_air_PBI/)
+[Voir la suite...](https://hines98.github.io/Suivi_des_polluants_air_PBI/) )
 
 
 
